@@ -3,3 +3,7 @@ public class Start2 {
 		System.out.println("AA");
 	}
 }
+
+class AA{
+	
+}
