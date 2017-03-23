@@ -18,6 +18,7 @@ class B{
 class C{
 	B bp=new B();
 	int c =300;
+	
 }
 class D{
 	C cp = new C();
